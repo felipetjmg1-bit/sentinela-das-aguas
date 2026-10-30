@@ -3,3 +3,8 @@ __pycache__/
 venv/
 .env
 node_modules/
+
+# Arquivos locais e artefatos de desenvolvimento
+.DS_Store
+Thumbs.db
+*.log
